@@ -11,6 +11,18 @@
 - [Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks](http://deeplearning.net/wp-content/uploads/2013/03/pseudo_label_final.pdf)
   - Published at: ICML 2013 workshop
   - Author(s): Dong-Hyun Lee
+  
+- [TEMPORAL ENSEMBLING FOR SEMI-SUPERVISED LEARNING](https://openreview.net/pdf?id=BJ6oOfqge)
+  - Published at: ICLR 2017
+  - Author(s): Samuli Laine, and Timo Aila
+  
+- [Regularization with stochastic transformations and perturbations for deep semi-supervised learning](https://pdfs.semanticscholar.org/72f8/46c56338841f5e0cd6e1cdf9bb9c13be0d64.pdf)
+  - Published at: NeurIPS 2016
+  - Author(s): Mehdi Sajjadi, Mehran Javanmardi, and Tolga Tasdizen
+  
+- [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://papers.nips.cc/paper/6719-mean-teachers-are-better-role-models-weight-averaged-consistency-targets-improve-semi-supervised-deep-learning-results.pdf)
+  - Published at: NeurIPS 2017
+  - Author(s): Antti Tarvainen, and Harri Valpola
 
 # 2018
 
