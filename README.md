@@ -59,3 +59,10 @@
 - [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/pdf/1905.02249.pdf)
   - Published at: ArXiv pre-print 2019
   - Author(s): David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel
+  
+- [Snowball: Iterative Model Evolution and Confident Sample Discovery for Semi-Supervised Learning on Very Small Labeled Datasets](https://arxiv.org/pdf/1909.01542.pdf)
+  - Published at: arXiv pre-print 2019
+  - Author(s): Yang Li, Jianhe Yuan, Zhiqun Zhao, Hao Sun, and Zhihai He
+  - Experiment results:
+![alt text](https://github.com/Jongchan/semi-supervised-learning-papers/raw/master/images/2019_Snowball_Table_2.png 'Table 2')
+  
