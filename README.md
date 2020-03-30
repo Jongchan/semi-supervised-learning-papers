@@ -66,3 +66,8 @@
   - Experiment results:
 ![alt text](https://github.com/Jongchan/semi-supervised-learning-papers/raw/master/images/2019_Snowball_Table_2.png 'Table 2')
   
+# 2020
+
+- [Meta Pseudo Labels](https://arxiv.org/abs/2003.10580)
+  - Published at: arXiv pre-print 2020
+  - Author(s): Hieu Pham, Qizhe Xie, Zihang Dai, and Quoc V. Le
